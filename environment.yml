@@ -4,9 +4,8 @@ channels:
 dependencies:
   - python
   - numpy
+  - scipy
   - pip
   - pip:
-    - nbgitpuller
-    - sphinx-gallery
-    - pandas
-    - matplotlib
+    - ndmath
+    - openplaning

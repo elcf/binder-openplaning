@@ -21,6 +21,19 @@ venv*/
 pyvenv*/
 pip-wheel-metadata/
 
+.DS_Store
+*~
+.*.sw[po]
+.build
+.ve
+.env
+.cache
+.pytest
+.benchmarks
+.bootstrap
+.appveyor.token
+*.bak
+
 # Jupyter
 .ipynb_checkpoints
 test.ipynb
