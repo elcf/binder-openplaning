@@ -5,7 +5,11 @@ dependencies:
   - python
   - numpy
   - scipy
+  - pandas
+  - matplotlib
+  - seaborn
   - pip
   - pip:
     - ndmath
     - openplaning
+    - pymoo
