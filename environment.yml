@@ -9,6 +9,6 @@ dependencies:
   - matplotlib=3.4.2
   - pip
   - pip:
-    - ndmath=0.0.5
+    - ndmath==0.0.5
     - openplaning>=0.1
-    - pymoo=0.4.2.2
+    - pymoo==0.4.2.2
