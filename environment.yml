@@ -10,5 +10,5 @@ dependencies:
   - pip
   - pip:
     - ndmath==0.0.5
-    - openplaning>=0.1
+    - openplaning==0.1.2
     - pymoo==0.4.2.2
