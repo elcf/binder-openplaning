@@ -10,6 +10,15 @@ To launch this notebook via Binder, either click the badge on top or go to:
 ## Note
 If you launch this notebook via Binder, please note that you will have a fully functioning Jupyter Notebook and you are able to change any variable or function, **but none of the changes you make will be saved**. If you want to keep the modifications you made, please download the modified files to your own computer by clicking "File" > "Download as" > "Notebook (.ipynb)".
 
+## Dependencies
+* [NumPy](https://numpy.org/)
+* [SciPy](https://www.scipy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [pymoo](https://pymoo.org/)
+* [ndmath](https://github.com/elcf/python-ndmath)
+* [OpenPlaning](https://github.com/elcf/python-openplaning)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
