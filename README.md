@@ -24,4 +24,4 @@ If you launch this notebook via Binder, please note that you will have a fully f
 
 ## References
 OpenPlaning is scheduled to be presented as a conference paper at the SNAME FAST Conference 2021:
-* Castro-Feliciano, E. L., 2021, "OpenPlaning: Open-Source Framework for the Hydrodynamic Design of Planing Hulls," SNAME FAST '21 Conference Proceedings [Paper Accepted]
+* Castro-Feliciano, E. L., 2021, "OpenPlaning: Open-Source Framework for the Hydrodynamic Design of Planing Hulls," SNAME FAST '21 Conference Proceedings
